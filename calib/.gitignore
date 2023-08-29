@@ -1,0 +1,4 @@
+gui.o
+bin/gui
+tui.o
+tui
